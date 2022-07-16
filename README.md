@@ -1,7 +1,7 @@
-# Blender-portfolio
-My 3D renders created using Blender and Gimp.<br/>
-Most of used textures are or were free and comes from this site: <a href='https://www.poliigon.com/search?type=texture'>poliigon</a>
+<h1 align='center'>Blender Portfolio</h1>
+<h4 align='center'>My 3D renders created using Blender and Gimp</h4>
 
+<img src='img/Mobile abstract wallpaper.png' />
 <img src='img/neon_logo_wallpaper.png' />
 <img src='img/fafik_2.png' />
 <img src='img/old_ball.png' />
